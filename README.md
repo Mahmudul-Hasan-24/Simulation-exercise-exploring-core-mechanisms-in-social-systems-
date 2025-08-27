@@ -1,4 +1,4 @@
-# Computational Modeling of Social System Project 1 
+# simulation exercise exploring core mechanisms in social systems 
 
 
 
