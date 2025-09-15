@@ -50,8 +50,7 @@ Comparing outcomes across these networks reveals how **structure shapes dynamics
 | Threshold   | Adoption Rate        | Lower thresholds → faster adoption, but only in connected networks. |
 | Mixed       | Opinion Diversity    | Small shocks keep diversity longer before consensus. |
 
-### Visualization Example
-![example](docs/sample_plot.png)
+
 
 ---
 
