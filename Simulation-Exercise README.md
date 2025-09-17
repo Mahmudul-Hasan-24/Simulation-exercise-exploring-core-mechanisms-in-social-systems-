@@ -1,5 +1,4 @@
-# 🧠 Simulation Exercise – Core Mechanisms in Social Systems
-
+# 🧠 "A Simple Model of Global Cascades on Random Networks."¶
 ## 📌 Project Overview
 This project is a **simulation-based exploration of fundamental mechanisms** in social systems, implemented in Python.  
 The goal is to understand how **local interactions** between agents lead to **emergent macro-level patterns** such as consensus, polarization, and diffusion of behaviors.
