@@ -1,4 +1,5 @@
-# 🧠 Simulation Exercise – Core Mechanisms in Social Systems
+# 🧠"A Simple Model of Global Cascades on Random Networks."¶
+
 
 ## 📌 Project Overview
 This project is a **simulation-based exploration of fundamental mechanisms** in social systems, implemented in Python.  
@@ -102,4 +103,4 @@ This project is licensed under the MIT License – see [LICENSE](LICENSE) for de
 
 ## 👤 Author
 **Mahmudul Hasan**  
-Master’s in Business Analytics – Technical University of Graz and University of  Graz  
+Master’s Computational Social System (Business Analytics) at Technical University of Graz & University of Graz  
